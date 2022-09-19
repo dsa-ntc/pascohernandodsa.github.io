@@ -176,5 +176,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: pascohernandodsa.github.io/assets/images/smalllogo.png
+      image: assets/images/smalllogo.png
       image_alt: Pasco-Hernando Democratic Socialists of America logo
