@@ -5,7 +5,7 @@ permalink: /bylaws/
 ---
 Bylaws of the Pasco-Hernando FL Local Chapter of Democratic Socialists of America
 
-Adopted 2022-06-17; approved by the NPC yyyy-mm-dd.  
+Adopted 2022-06-17; approved by the NPC 2022-09-14.  
 
 ## ARTICLE I.  Name and Territory.  
 
