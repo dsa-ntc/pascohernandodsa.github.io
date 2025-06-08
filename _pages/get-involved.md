@@ -4,7 +4,7 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-Want to get involved with Pasco-Hernando DSA? [Join us!](https://act.dsausa.org/donate/dsa_recommit_2022/)
+Want to get involved with Pasco-Hernando DSA? [Join us!](https://dsausa.org/join)
 
 Keep up to date with our actions, [sign up with the form below!](https://actionnetwork.org/forms/pasco-hernando-dsa)
 
