@@ -13,6 +13,9 @@ authors:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pascohernandodsa/"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/phdsa.bsky.social"
 
 # blog post share links
 share:
