@@ -14,6 +14,46 @@ Jekyll documentation can be found here: https://jekyllrb.com/docs
 
 The Lone Wolf Theme Example page can be found here: https://manid2.github.io/lone-wolf-theme/
 
+## Getting Started
+
+### Running the website locally
+
+To run the website locally to view changes before pushing, you need to have Ruby installed on your machine. Below are instructions for a few major platforms.
+
+#### Windows
+
+1. Go to [rubyinstaller.org](https://rubyinstaller.org/downloads/), and download `Ruby+Devkit 3.X.X-X (x64)`
+2. Run the installer, and follow the prompts
+3. Open a terminal by hitting `Windows key`, then searching for `Terminal` or `Powershell`
+4. Type `ruby --version`, if the command outputs version information the install was successful
+
+#### Linux
+
+##### Fedora/RHEL-based distros
+
+```bash
+sudo dnf install ruby ruby-devel -y
+ruby --version
+```
+
+##### Debian/Ubuntu-based distros
+
+```bash
+sudo apt update
+sudo apt install ruby-full ruby-dev -y
+ruby --version
+```
+
+Once ruby is installed, open a terminal and run the following commands *in the directory you cloned the repo to*
+
+```bash
+gem install jekyll bundler
+bundle install
+bundle exec jekyll serve
+```
+
+If those commands succeed you can now access the site on `http://localhost:4000`
+
 ## Expectations and Limitations
 This project's function is for the NTC to provide the means for smaller DSA Chapters to establish a Jekyll based website quickly and at no cost. The ownership (e.g. updates to content, updates to theme, customization) is expected to fall on the individual Chapter with minimal support from the NTC outside of onboarding. There is no requirement the website must be hosted on GitLab Pages, use this Jekyll theme, or use this project. 
 
