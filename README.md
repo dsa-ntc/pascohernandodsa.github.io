@@ -32,7 +32,7 @@ To run the website locally to view changes before pushing, you need to have Ruby
 ##### Fedora/RHEL-based distros
 
 ```bash
-sudo dnf install ruby ruby-devel -y
+sudo dnf install ruby ruby-devel gcc g++ -y
 ruby --version
 ```
 
