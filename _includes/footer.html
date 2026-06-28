@@ -30,16 +30,6 @@
                         {% endfor %}
                     </ul>
                 </div>
-                <div class="col-md-2 col-sm-12">
-                    <h4 class="text-red m-0">Sitemap</h3>
-                    <ul class="my-3">
-                        {% for fd_link in feed.feed %}
-                        <li>
-                            <i class="{{ fd_link.icon }}"></i> <a href="{{ fd_link.url | relative_url }}">{{ fd_link.label }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
             </div>
         </div>
     </div>
