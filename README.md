@@ -43,6 +43,12 @@ sudo apt update
 sudo apt install ruby-full ruby-dev -y
 ruby --version
 ```
+##### Arch distros
+
+```bash
+sudo pacman -Syu ruby base-devel
+ruby --version
+```
 
 Once ruby is installed, open a terminal and run the following commands *in the directory you cloned the repo to*
 
